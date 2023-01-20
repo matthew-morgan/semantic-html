@@ -1,0 +1,100 @@
+body {
+  background-color: #f2f2f2;
+  font-family: "Roboto", sans-serif;
+  color: #333;
+  font-size: 16px;
+}
+
+#container {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+}
+
+#container h1 {
+  font-size: 40px;
+  font-weight: 300;
+  text-align: center;
+}
+
+#container p {
+  line-height: 1.5;
+}
+
+#container h2 {
+  font-size: 28px;
+  font-weight: 300;
+  margin-top: 30px;
+}
+
+#container ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#container ul li {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#container ul li:last-child {
+  margin-bottom: 0;
+}
+
+#container ul li a {
+  color: #333;
+  text-decoration: none;
+}
+
+#container ul li a:hover {
+  text-decoration: underline;
+}
+
+#container ul li span {
+  color: #999;
+  font-size: 12px;
+}
+
+#container ul li span:hover {
+  color: #333;
+}
+
+#container ul li span:before {
+  content: "Added on ";
+}
+
+#container ul li span:after {
+  content: " by ";
+}
+
+#container ul li span a {
+  color: #333;
+}
+
+#container ul li span a:hover {
+  text-decoration: underline;
+}
+
+/* Path: styles.css */
+/* Write styles for index.html here */
+body {
+  background-color: #f2f2f2;
+  font-family: "Roboto", sans-serif;
+  color: #333;
+  font-size: 16px;
+}
+
+#container {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1
+}
